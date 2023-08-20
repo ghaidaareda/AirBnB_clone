@@ -5,6 +5,7 @@
         border: 1px solid #DDDDDD;
         border-radius: 4px;
         display: flex;
+        flex-direction: row;
         align-items: center;
         position: relative;
 }
@@ -27,27 +28,20 @@
         height: 100%;
         width: 25%;
         border-right: 1px solid #DDDDDD;
-        position: absolute;
-        display: flex;
-        float: left;
         background-color: #FFFFFF;
 }
 .amenities{
         height: 100%;
         width: 25%;
-        position: relative;
-        align-items: center;
-        border-right: 1px solid #DDDDDD;
-        margin-right: 10px;
-        flex: 25%;
 }
 h3 {
         font-weight: 600;
         color: black;
+        text-align: center;
 }
 h4 {
         font-weight: 400;
         font-size: 14px;
         color:black;
-
+        text-align: center;
 }
