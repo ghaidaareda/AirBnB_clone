@@ -5,6 +5,7 @@
                 position: fixed;
                 bottom: 0;
                 border-top: 1px solid #CCCCCC;
-                text-align: center;
                 align-items: center;
+                justify-content: center;
+                display: flex;
  }
